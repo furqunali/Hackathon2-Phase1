@@ -1,0 +1,16 @@
+[
+  {
+    "id": "101",
+    "name": "Rauf",
+    "grades": [88, 92, 95],
+    "gpa": 91.67,
+    "notes": "Excellent performance in Python logic."
+  },
+  {
+    "id": "102",
+    "name": "Yusra",
+    "grades": [75, 80, 82],
+    "gpa": 79.0,
+    "notes": "Consistent improvement in data structures."
+  }
+]
